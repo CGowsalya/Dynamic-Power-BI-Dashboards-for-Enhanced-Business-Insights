@@ -8,7 +8,7 @@
 🕒 Calls by Time: Analyze call volume trends throughout the day.
 ⏳ Average Speed of Answer: Measure efficiency in handling calls.
 🎯 Agent Performance Quadrant: Evaluate agent performance based on handle time and calls answered.
-Let’s stay proactive and data-driven in optimizing service delivery! Explore the dashboard for actionable insights. _[Call Centre Manager](https://github.com/CGowsalya/Dynamic-Power-BI-Dashboards-for-Enhanced-Business-Insights/blob/main/Call%centre.pdf)_ 
+Let’s stay proactive and data-driven in optimizing service delivery! Explore the dashboard for actionable insights. _[Call Centre Manager](https://github.com/CGowsalya/Dynamic-Power-BI-Dashboards-for-Enhanced-Business-Insights/blob/main/Call%centre.pdf)_ [Interactive Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYjE5YWZjZDItMjJhNi00ZGY4LTg1NWQtOWUzMDNkMzE4MTVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
 
 # Churn Analysis and Customer Risk Dashboard
 📊 Discover our Churn Analysis and Customer Risk Dashboard, empowering strategic decision-making:
